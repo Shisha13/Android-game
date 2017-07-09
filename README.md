@@ -1,2 +1,3 @@
 # Android-game
-учебный проект
+Learning of Unitu Engine
+this is my first game
