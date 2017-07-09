@@ -1,3 +1,3 @@
 # Android-game
-Learning of Unitu Engine
+Learning of Unity Engine
 this is my first game
